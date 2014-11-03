@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1710AF6A-1E0D-4AF4-8AF9-221C2FE328FF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>omar</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0F035A231C35C481609F4173A570BD6B24BA78AA</key>
+		<string>https://github.com/thephoenixparable/omar.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>omar.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0F035A231C35C481609F4173A570BD6B24BA78AA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/thephoenixparable/omar.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0F035A231C35C481609F4173A570BD6B24BA78AA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0F035A231C35C481609F4173A570BD6B24BA78AA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>omar</string>
+		</dict>
+	</array>
+</dict>
+</plist>
